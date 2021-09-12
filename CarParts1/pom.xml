@@ -29,6 +29,7 @@
 		<cucumber.version>6.9.0</cucumber.version>
 	</properties>
 
+	<!-- Updated -->
 	<dependencies>
 		<dependency>
 			<groupId>io.cucumber</groupId>
